@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning MERN stack improvements.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/vinny-vilasboa/)
+- 📫 How to reach me: (https://www.linkedin.com/in/vinny-vilasboa/)
 
