@@ -1,4 +1,4 @@
-![banner](https://ibb.co/VV00fdx)
+![banner](https://i.ibb.co/BLHH0mG/IMG-6374.jpg)
 
 ---
 ## Here's a little about me:
