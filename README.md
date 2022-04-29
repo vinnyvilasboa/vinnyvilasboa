@@ -1,6 +1,6 @@
 ![banner](https://ibb.co/VV00fdx)
 
-	---
+---
 ## Here's a little about me:
 
 - 🔭 I’m currently working on the intergrations of different API's in a passion project.
