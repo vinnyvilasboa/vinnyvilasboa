@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vinny-vilasboa/" target="_blank">Linkedin</a> :crossed_swords: <a href="https://vilasboa.dev" target="_blank">Portfolio</a>
 </p>
+
 ---
 ### I'm a software engineer based out of New York with a non-traditional background in health and fitness. I working on developing my skills on a daily basis, focusing primarily on Javascript, Express, ReactJS, and MongoDB. I recently created a blog where I track my progress as a developer.
 
