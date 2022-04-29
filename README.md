@@ -1,6 +1,6 @@
-![banner](https://i.ibb.co/9ZCtXC8/IMG-6376.jpg)
+<!-- ![banner](https://i.ibb.co/9ZCtXC8/IMG-6376.jpg) -->
 <p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+  <img width="800" src="https://i.ibb.co/9ZCtXC8/IMG-6376.jpg" alt="Material Bread logo">
 </p>
 ---
 ## I'm a software engineer based out of New York with a non-traditional background in health and fitness. I working on developing my skills on a daily basis, focusing primarily on Javascript, Express, ReactJS, and MongoDB. I recently created a blog where I track my progress as a developer.
