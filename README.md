@@ -1,6 +1,6 @@
 <!-- ![banner](https://ibb.co/ys7sS6k) -->
 <p align="center">
-  <img width="800" src="https://i.ibb.co/9ZCtXC8/IMG-6376.jpg" alt="banner">
+  <img width="800" src="https://ibb.co/ys7sS6k" alt="banner">
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinny-vilasboa/" target="_blank">Linkedin</a>.     :crossed_swords:     <a href="https://vilasboa.dev" target="_blank">Portfolio</a>     :crossed_swords:     <a href="https://developing-thoughts.com/" target="_blank">Blog</a>
