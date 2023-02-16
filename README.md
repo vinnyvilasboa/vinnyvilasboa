@@ -11,7 +11,7 @@
 ---
 ### I'm a software engineer based out of New York with a non-traditional background in health and fitness. I working on developing my skills on a daily basis, focusing primarily on Javascript, Express, ReactJS, and MongoDB. I recently created a blog where I track my progress as a developer.
 
-### - 🔭 I’m currently working on a personal app based around faith and community.
+### - 🔭 I’m currently working on a personal app based around self development and psychology.
 
 ### - 🌱 I’m currently working on developing my skills on the NEXTJS framework.
 
