@@ -3,7 +3,7 @@
   <img width="800" src="https://i.ibb.co/PC0CQcW/github-name-hero.png" alt="banner">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinny-vilasboa/" target="_blank">Linkedin</a>.     :crossed_swords:     <a href="https://vilasboa.dev" target="_blank">Portfolio</a>     :crossed_swords:     <a href="https://developing-thoughts.com/" target="_blank">Blog</a>
+  <a href="https://www.linkedin.com/in/vinny-vilasboa/" target="_blank">Linkedin</a>.     :crossed_swords:     <a href="https://vinnyvilasboa.wordpress.com/" target="_blank">Portfolio</a>     :crossed_swords:     
   
   
 </p>
